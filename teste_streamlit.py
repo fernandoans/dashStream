@@ -8,7 +8,7 @@ Original file is located at
 
 # **Definição das Bibliotecas**
 """
-!pip install psycopg2
+pip install psycopg2
 
 import psycopg2
 import pandas as pd
